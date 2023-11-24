@@ -24,6 +24,7 @@ pyautogui.moveTo(1133,404)
 pyautogui.moveTo(1133,510)
 pyautogui.moveTo(1200,510)
 pyautogui.moveTo(1200,476)
+pyautogui.moveTo(1327,476)
 
 pyautogui.mouseInfo()
 
